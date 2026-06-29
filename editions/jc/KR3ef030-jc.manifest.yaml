@@ -1,0 +1,204 @@
+canonical_identifier: bkk:krp/KR3ef030/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef030/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒論讀
+  identifiers:
+    krp: KR3ef030
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef030.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef030_000-jc.yaml, hash: 'sha256:b45f91cf65d806a0a632e439d7465af29e152096c9b403e8eb296de698d2471c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef030_000-jc.markers.yaml, hash: 'sha256:711201800855c81f0dd2d4b15b297c3017193faa42b7609ba144d4465fd84d72'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 107
+  label: 辨太陽病脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d3.h1s1
+    span:
+    - body
+    - 107
+    - 1368
+  label: 辨陰病陽病之大綱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d4.h1s1
+    span:
+    - body
+    - 1368
+    - 2706
+  label: 右七節論中風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d5.h1s1
+    span:
+    - body
+    - 2706
+    - 3704
+  label: 右十一節論傷寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d6.h1s1
+    span:
+    - body
+    - 3704
+    - 4970
+  label: 右四節論濕痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d7.h1s1
+    span:
+    - body
+    - 4970
+    - 5960
+  label: 右九節論熱病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d8.h1s1
+    span:
+    - body
+    - 5960
+    - 11133
+  label: 辨太陽病傳解
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d9.h1s1
+    span:
+    - body
+    - 11133
+    - 17019
+  label: 辨誤汗病脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d10.h1s1
+    span:
+    - body
+    - 17019
+    - 17140
+  label: 辯誤吐病脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d11.h1s1
+    span:
+    - body
+    - 17140
+    - 17240
+  label: 辯永逆病脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d12.h1s1
+    span:
+    - body
+    - 17240
+    - 17709
+  label: 辯火逆病脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d13.h1s1
+    span:
+    - body
+    - 17709
+    - 24970
+  label: 辯陽明病脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d14.h1s1
+    span:
+    - body
+    - 24970
+    - 26166
+  label: 辨少陽病脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d15.h1s1
+    span:
+    - body
+    - 26166
+    - 26824
+  label: 辨太陰病脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d16.h1s1
+    span:
+    - body
+    - 26824
+    - 29849
+  label: 辨少陰病脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d17.h1s1
+    span:
+    - body
+    - 29849
+    - 32408
+  label: 辨厥陰病脈證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d18.h1s1
+    span:
+    - body
+    - 32408
+    - 38060
+  label: 平脈法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef030_jc_000-d19.h1s1
+    span:
+    - body
+    - 38060
+    - 43424
+  label: 方
+  type: section
+  level: 1
+hash: sha256:a938581da991d69c62e9a5d342ba6ed3fbdd920b8b9d0ed5ecd1d71bf393e7af
